@@ -1,4 +1,5 @@
 <?php
+//add new message
 date_default_timezone_set('Asia/Shanghai');
 define('DEBUG', true);
 define('DS', DIRECTORY_SEPARATOR);
